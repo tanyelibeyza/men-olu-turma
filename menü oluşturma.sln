@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "menü oluşturma", "menü oluşturma\menü oluşturma.csproj", "{22EC4F1E-8370-4573-97D6-9BE8326E3404}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22EC4F1E-8370-4573-97D6-9BE8326E3404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22EC4F1E-8370-4573-97D6-9BE8326E3404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22EC4F1E-8370-4573-97D6-9BE8326E3404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22EC4F1E-8370-4573-97D6-9BE8326E3404}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC9E697D-FC64-4863-B724-74F56E780980}
+	EndGlobalSection
+EndGlobal
